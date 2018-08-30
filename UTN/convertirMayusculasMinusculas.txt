@@ -1,0 +1,8 @@
+#include <ctype.h>
+toupper = Convierte a mayuscula
+EJ: opcion = toupper(opcion);
+char toupper (char)
+
+tolower = A minuscula:
+opcion = tolower(opcion);
+char tolower (char)

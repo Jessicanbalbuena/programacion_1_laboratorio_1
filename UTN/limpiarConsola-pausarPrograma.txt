@@ -1,0 +1,2 @@
+system ("pause"); = Pausa la ejecucion en tiempo real.
+system ("cls"); = Limpiar Consola.
