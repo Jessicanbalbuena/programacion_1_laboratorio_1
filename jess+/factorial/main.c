@@ -7,7 +7,7 @@
  * \return
  *
  */
-int calcularFactorial;
+int calcularFactorial(int);
 int main()
 {
     int numero;
@@ -16,7 +16,7 @@ int main()
     printf("Ingrese un numero: "),
            scanf("%d", &numero);
     factorial = calcularFactorial(numero);
-    printf("el factorial es: %d")
+    printf("el factorial es: %d");
     for (i=numero ; i >= 1; i --)
     {
         factorial = factorial * 1;
@@ -28,7 +28,8 @@ int main()
 int calcularFactorial(int numero)
 {
     int factorial;
-    if (numero =0);
+
+    if (numero ==0);
     {
         factorial = 1;
     }
