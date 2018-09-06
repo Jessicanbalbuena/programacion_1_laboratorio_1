@@ -44,7 +44,6 @@ int main()
 }
 int pedirNumero();
 {
-
     int numero;
     printf("Ingrese un numero");
 }
